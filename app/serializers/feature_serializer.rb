@@ -1,3 +1,3 @@
 class FeatureSerializer < ActiveModel::Serializer
-  attributes :id
+  attributes :id, :title, :publication, :summary, :img, :link
 end
