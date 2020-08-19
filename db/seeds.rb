@@ -6,6 +6,8 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+## ARTICLES - consider adding topic to each :)
+
 Article.create(title: "Riverdale's Bernadette Beck On How The Show Fails Its Black Characters", publication: "Elle", summary: "An exclusive with the actress about life on set and racism in the film and television industry.", img: "http://code.gabriellealexa.com/icons/01.jpg", link: "https://www.elle.com/culture/movies-tv/a33406160/riverdale-bernadette-beck-racism-tokenism/")
 Article.create(title: "Greek Life Needs To Take Racism As Seriously As It Takes Hazing", publication: "The Huffington Post", summary: "In Greek life, racism exists alongside a code of silence.", img: "http://code.gabriellealexa.com/icons/28.jpg", link: "https://www.huffpost.com/entry/opinion-noel-racism-greek-life_n_5ae2b1a2e4b055fd7fca4141")
 Article.create(title: "The Inescapability Of Social Media's Sexual Violence Discourse", publication: "Bitch Media", summary: "Weinstein updates will find you, whether or not you want them.", img: "http://code.gabriellealexa.com/icons/15.jpg", link: "https://www.bitchmedia.org/article/harvey-weinstein-and-triggering-social-media")
